@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-In this module, we learned about data modeling, engineering, and analysis. Applying your knowledge of DataFrames and tabular data, you’ll create entity relationship diagrams (ERDs), import data into a database, troubleshoot common errors, and create queries that use data to answer questions. Databases are used everywhere—small and large businesses, and even individuals working on personal projects—and SQL is one of the most widely used query languages in use. ___________________________________________________________________________________________________________________________________
+In this module, we learned about data modeling, engineering, and analysis. Applying your knowledge of DataFrames and tabular data, you’ll create entity relationship diagrams (ERDs), import data into a database, troubleshoot common errors, and create queries that use data to answer questions. Databases are used everywhere—small and large businesses, and even individuals working on personal projects—and SQL is one of the most widely used query languages in use. ______________________________________________________________________________________________________________________________
 
 
 
